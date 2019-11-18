@@ -5,7 +5,7 @@ export class ParseTree {
   public spos: number;
   public epos: number;
   public nodes: [string, ParseTree][];
-
+ 
   public constructor(tag: string, spos: number, epos: number, child: any) {
     this.tag = tag;
     this.urn = child;
