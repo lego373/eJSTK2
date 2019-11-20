@@ -1,5 +1,5 @@
 [package]
-name = "eJSTK2"
+name = "e_jstk"
 version = "0.1.0"
 authors = ["松原南美 <minami@mm.local>"]
 edition = "2018"
